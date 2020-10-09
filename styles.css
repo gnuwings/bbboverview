@@ -1,0 +1,55 @@
+#page-report-bbboverview-index td.numviews {
+    text-align: right;
+}
+
+#page-report-bbboverview-index tr.section {
+    text-align: center;
+}
+
+#page-report-bbboverview-index td.lastaccess {
+    font-size: 0.8em;
+}
+
+#page-report-bbboverview-user .section .content {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#page-report-bbboverview-user .section h2 {
+    margin-top: 0;
+}
+
+#page-report-bbboverview-user .section {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
+#page-report-bbboverview-user .section {
+    border-width: 1px;
+    border-style: solid;
+    padding: 10px;
+}
+.header.verticalText{
+	text-align: left;
+	vertical-align: middle;
+	margin: 0px;
+	padding: 0px;
+    padding-left: 4px;
+	white-space: nowrap;
+	-webkit-transform: rotate(-90deg); 
+	-moz-transform: rotate(-90deg);  
+	    max-width: 5px;               
+}
+.generaltable {
+    margin-top: 10%;
+    }
+.generaltable th{
+       border-top: 0px !important;
+           border-right: 1px solid #dee2e6;
+
+    }
+ .generaltable td{
+   
+        border-right: 1px solid #dee2e6;
+}
